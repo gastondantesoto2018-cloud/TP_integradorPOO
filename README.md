@@ -14,3 +14,9 @@ https://github.com/sqlitebrowser/sqlitebrowser/releases/download/v3.13.1/DB.Brow
 IDE utilizada IntelliJ
 https://www.jetbrains.com/es-es/idea/download/download-thanks.html?platform=windows
 1-Instalación predeterminada.
+
+Dentro de nuestra IDE tenemos que tener instalada la extensión Swing UI Designer 
+1-Dentro del IDE presionar Crtl + Alt + S.
+2-Entrar en Plugins.
+3-Buscar Swing UI Designer e instalarlo.
+4-Cerrar y volver a abrir el IDE.
