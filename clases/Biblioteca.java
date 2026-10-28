@@ -1,11 +1,15 @@
 package biblioteca;
 
+
+
+
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.LinkedHashSet;
 
 public class Biblioteca {
 
+    private int numbe;
     private String nombre;
     // Cardinalidad: la biblioteca tiene 0..* libros y 0..* socios
     private ArrayList<Libro> libros;
